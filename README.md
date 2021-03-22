@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am a PhD student at NTNU - The Norweigan University of Science and Technology. I study Mathematics, focusing on the Analysis of PDEs. See my personal website for my current publications.
 
 <!--
 **M-Tandy/M-Tandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
